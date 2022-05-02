@@ -5,5 +5,5 @@ Stores events under `events/events.log` within the current working directory.
 
 ```
 pip3 install -r requirements.txt
-python3 ./app.py
+python3 ./server.py
 ```
